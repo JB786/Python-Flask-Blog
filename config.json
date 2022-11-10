@@ -1,0 +1,22 @@
+
+{
+  "params": {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/codeera",
+    "prod_uri": "mysql://root:@localhost/codeera",
+    "fb_url": "https://facebook.com/codeera",
+    "tw_url": "https://twitter.com/codeera",
+    "gh_url": "https://github.com/codeera",
+    "website_name": "TheCodingEra",
+    "blog_name": "Coder's Era",
+    "tag_name": "Blog Your Own Era",
+    "gmail-user": "your-mail@gmail.com",
+    "gmail-password": "your-password",
+    "about_text": "Hello Guys! This is JB and I am an Amateur Web Developer.",
+    "number_of_posts": 3,
+    "admin_user": "jb",
+    "admin_password": "welcome",
+    "upload_location": "E:\\Python\\Flask-Tutorials\\static\\assets"
+  }
+
+}
